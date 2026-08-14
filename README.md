@@ -28,6 +28,8 @@ I am particularly interested in roles where operational expertise, analytical th
 
 A growing collection of projects and exercises in:
 
+**Featured project:** [Customer Segmentation with K-Means](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/customer-segmentation-kmeans)
+
 - Python
 - Machine Learning
 - Deep Learning
