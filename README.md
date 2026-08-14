@@ -28,8 +28,10 @@ I am particularly interested in roles where operational expertise, analytical th
 
 A growing collection of projects and exercises in:
 
-**Featured project:** [Customer Segmentation with K-Means](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/customer-segmentation-kmeans)
+**Featured projects:**
 
+- [Customer Segmentation with K-Means](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/customer-segmentation-kmeans)
+- [Fraud Anomaly Detection](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/fraud-anomaly-detection)
 - Python
 - Machine Learning
 - Deep Learning
