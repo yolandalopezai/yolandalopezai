@@ -33,6 +33,7 @@ A growing collection of projects and exercises in:
 - [Customer Segmentation with K-Means](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/customer-segmentation-kmeans)
 - [Fraud Anomaly Detection](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/fraud-anomaly-detection)
 - [Market Basket Analysis with Apriori](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/market-basket-analysis-apriori)
+- - [CNN Image Classification with CIFAR-10](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/cnn-image-classification-cifar10)
 - Python
 - Machine Learning
 - Deep Learning
