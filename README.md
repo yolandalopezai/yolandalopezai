@@ -34,6 +34,7 @@ A growing collection of projects and exercises in:
 - [Fraud Anomaly Detection](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/fraud-anomaly-detection)
 - [Market Basket Analysis with Apriori](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/market-basket-analysis-apriori)
 - [CNN Image Classification with CIFAR-10](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/cnn-image-classification-cifar10)
+- [Structured Information Extraction with NLP](https://github.com/yolandalopezai/ai-learning-portfolio/tree/main/projects/structured-information-extraction-nlp)
 - Python
 - Machine Learning
 - Deep Learning
